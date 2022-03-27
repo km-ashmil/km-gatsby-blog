@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://km-gats.netlify.app',
     gaTrackingId: null,
     trailingSlash: false,
   },
